@@ -7,3 +7,5 @@ year: 2026
 term: Spring
 course_id: stat-214
 ---
+
+I served as a Graduate Student Instructor for this course. Course materials are available on the [Spring 2026 course website](https://stat214.berkeley.edu/spring-2026/).
